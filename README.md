@@ -1,0 +1,3 @@
+This project is a GPA Calculator developed in Kotlin, designed to help students calculate their average grade by entering their exam scores. It’s a beginner-friendly Android application built using Android Studio and serves as a practical example for anyone learning Kotlin or Android app development.
+Project Overview
+The GPA Calculator allows users to enter scores for two exams and then calculates the average of these scores. This is a basic project focused on understanding the fundamentals of Android user interface components, event handling, and basic data processing in Kotlin. It’s ideal for those new to Android development.
